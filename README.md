@@ -24,6 +24,7 @@ A high level approach that interviewer usually takes today, that can be mimicked
 <img width="1076" alt="Screenshot 2024-10-31 at 12 06 31 PM" src="https://github.com/user-attachments/assets/9dab8eab-4e8b-43bf-87c2-0ec54665b46b">
 
 ##### sentence-transformers/all-MiniLM-L6-v2
-<img width="1112" alt="Screenshot 2024-10-31 at 11 57 48 AM" src="https://github.com/user-attachments/assets/8a1c51ab-8fe1-4064-8dfe-1357941dc36b">
+<img width="637" alt="Screenshot 2024-10-31 at 3 09 39 PM" src="https://github.com/user-attachments/assets/864b5081-642a-4bd1-b840-f286d22721be">
+
 
 https://docs.google.com/document/d/1OXt73gemofmjf62UHJM5cIA8ArPUy6EHKCcJZSEMpNw/edit?tab=t.0
