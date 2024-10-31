@@ -57,15 +57,12 @@ if __name__ == "__main__":
     while True:
         user_input = input("You: ")
         
-        # Exit condition
         if user_input.lower() in ["exit", "quit"]:
             print("Chatbot: Thank you for chatting! Goodbye!")
             break
-        
-        # Classify intent
+    
         predicted_intent = classify_intent(user_input)
         print(f"Predicted intent: {predicted_intent}")
 
-        # Get the most relevant follow-up question based on user input
         follow_up_question = get_most_relevant_question(user_input)
         print(f"Follow-up question: {follow_up_question}")
