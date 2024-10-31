@@ -20,5 +20,4 @@ A high level approach that interviewer usually takes today, that can be mimicked
 
 
 ### output
-
-<img width="379" alt="Screenshot 2024-10-31 at 11 57 43 AM" src="https://github.com/user-attachments/assets/63d945a6-db3e-4805-a7c6-04ca039b328e">
+<img width="1076" alt="Screenshot 2024-10-31 at 12 06 31 PM" src="https://github.com/user-attachments/assets/9dab8eab-4e8b-43bf-87c2-0ec54665b46b">
