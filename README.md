@@ -21,3 +21,7 @@ A high level approach that interviewer usually takes today, that can be mimicked
 
 ### output
 <img width="1076" alt="Screenshot 2024-10-31 at 12 06 31 PM" src="https://github.com/user-attachments/assets/9dab8eab-4e8b-43bf-87c2-0ec54665b46b">
+
+
+
+https://docs.google.com/document/d/1OXt73gemofmjf62UHJM5cIA8ArPUy6EHKCcJZSEMpNw/edit?tab=t.0
